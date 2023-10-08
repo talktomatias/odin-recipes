@@ -1,0 +1,20 @@
+div {
+    text-align : center;
+    
+}
+
+h1 {
+    height: 50px;
+    background-color: #579500;
+    color: aliceblue;
+    text-shadow: 2px 2px black;
+    padding-left: 10px;
+}
+
+.recipes-images {
+    border-radius: 25px;
+    border: 2px solid #579500;
+    padding: 20px;
+    width: 300px;
+    height: 200px;
+}
